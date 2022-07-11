@@ -32,13 +32,17 @@ I am Charu Gupta, currently pursuing my B.Tech from IIT-BHU. I am a tech enthusi
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
+
 
 ### Tools:
 
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 
@@ -59,4 +63,6 @@ I am Charu Gupta, currently pursuing my B.Tech from IIT-BHU. I am a tech enthusi
 </div> -->
 
 ### PROFILE VIEWS 
-![VisitorCount](https://profile-counter.glitch.me/charu-dev/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="charu-dev" /> </p>
+
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
