@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Konnichiwa!+👋&center=true&size=30">
   </a>
 </h1>
-## Hi, I am Charu Gupta! 
+<h1>Hi, I am Charu Gupta! </h1>
 
 I am Charu Gupta, currently pursuing my BTech from IIT-BHU. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <h2>📫 Reach out to me on</h2>
@@ -11,7 +11,7 @@ I am Charu Gupta, currently pursuing my BTech from IIT-BHU. I am a tech enthusia
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/charu-gupta-12b385196?original_referer=https%3A%2F%2Fwww.google.com%2F)](https://in.linkedin.com/in/charu-gupta-12b385196?original_referer=https%3A%2F%2Fwww.google.com%2F)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guptacharu105@gmail.com)](mailto:guptacharu105@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/azor_ahai_01?igshid=YmMyMTA2M2Y=)](https://instagram.com/azor_ahai_01?igshid=YmMyMTA2M2Y=)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/azor_ahai_01?igshid=YmMyMTA2M2Y=)](https://instagram.com/azor_ahai_01?igshid=YmMyMTA2M2Y=)
 
 [![Charu's github activity graph](https://activity-graph.herokuapp.com/graph?username=charu-dev&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://github.com/charu-dev/github-readme-activity-graph)
 
