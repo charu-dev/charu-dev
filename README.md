@@ -37,9 +37,10 @@ I am Charu Gupta, currently pursuing my B.Tech from IIT-BHU. I am a tech enthusi
 
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-![Github]([https://img.shields.io/badge/-Git-black?style=flat-square&logo=git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))
-<a href="#"><img alt="Github" src="[https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)"></a>
+
 
 
 ## 📈 Stats
