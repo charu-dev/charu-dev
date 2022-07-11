@@ -47,13 +47,13 @@ I am Charu Gupta, currently pursuing my B.Tech from IIT-BHU. I am a tech enthusi
 
 ## 📈 Stats
 
-<!-- <p align="center"> -->
+<p align="center">
 	
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=charu-dev&show_icons=true&theme=tokyonight&count_private=true" /> -->
-<!-- 	![charu's GitHub stats](https://github-readme-stats.vercel.app/api?username=charu-dev&count_private=true) -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=charu-dev&show_icons=true&theme=tokyonight&count_private=true" />
+	![charu's GitHub stats](https://github-readme-stats.vercel.app/api?username=charu-dev&count_private=true)
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=charu-dev&count_private=true" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=charu-dev&theme=tokyonight&count_private=true" /> -->
-<!-- </p> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=charu-dev&theme=tokyonight&count_private=true" />
+</p>
 
 ### PROFILE VIEWS 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="charu-dev" /> </p>
