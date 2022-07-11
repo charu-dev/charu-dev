@@ -5,7 +5,7 @@
 </h1>
 <h1>Hi, I am Charu Gupta! </h1>
 
-I am Charu Gupta, currently pursuing my BTech from IIT-BHU. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Charu Gupta, currently pursuing my B.Tech from IIT-BHU. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <h2>📫 Reach out to me on</h2>
 
 
@@ -26,7 +26,7 @@ I am Charu Gupta, currently pursuing my BTech from IIT-BHU. I am a tech enthusia
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -35,11 +35,12 @@ I am Charu Gupta, currently pursuing my BTech from IIT-BHU. I am a tech enthusia
 
 ### Tools:
 
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+![Github]([https://img.shields.io/badge/-Git-black?style=flat-square&logo=git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))
+<a href="#"><img alt="Github" src="[https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)"></a>
+
 
 ## 📈 Stats
 
