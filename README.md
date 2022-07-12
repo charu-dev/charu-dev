@@ -13,7 +13,7 @@ I am Charu Gupta, currently pursuing my B.Tech from IIT-BHU. I am a tech enthusi
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guptacharu105@gmail.com)](mailto:guptacharu105@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/azor_ahai_01?igshid=YmMyMTA2M2Y=)](https://instagram.com/azor_ahai_01?igshid=YmMyMTA2M2Y=)
 
-[![Charu's github activity graph](https://activity-graph.herokuapp.com/graph?username=charu-dev&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://github.com/charu-dev/github-readme-activity-graph)
+[![Charu's github activity graph](https://activity-graph.herokuapp.com/graph?username=charu-dev&theme=react-dark&bg_color=20232a&hide_border=true&area=true&count_private=true)](https://github.com/charu-dev/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
