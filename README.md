@@ -50,7 +50,7 @@ I am Charu Gupta, currently pursuing my B.Tech from IIT-BHU. I am a tech enthusi
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=charu-dev&count_private=true&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=charu-dev&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=tokyonight" />
 </p>
 
 ### PROFILE VIEWS 
